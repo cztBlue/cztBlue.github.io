@@ -1,6 +1,6 @@
 - 入门
 
-  * [Mod相关信息](/intro)
+  * [test1](/README.md)
   * [创建第一个mod](/quick-start)
   * [制作modicon](/modicon)
   * [尝试使用api](/tryapi)
