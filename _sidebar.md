@@ -1,8 +1,8 @@
 - 入门
 
   * [test1](/README.md)
-  * [创建第一个mod](/quick-start)
-  * [制作modicon](/modicon)
+  * [bbbb](/quick-start)
+  * [ccc](/modicon)
   * [尝试使用api](/tryapi)
   * [mod配置项](/modconfig)
   * [tex与png互转](/textool)
