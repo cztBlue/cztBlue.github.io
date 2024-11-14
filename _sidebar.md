@@ -8,7 +8,7 @@
   * [食物](/character/food.md)
   * [药水](/character/potion.md)
   * [掉落/获取](/character/loot.md)
-  * [彩蛋/剧情](/character/plot.md)
+  <!-- * [彩蛋/剧情](/character/plot.md) -->
 
 - 维护信息
   * [更新日志](/project/updata.md)

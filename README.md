@@ -2,8 +2,12 @@
 这里是饥荒单机版人物Mod 爱尔奎特·布伦史塔德(Arcueid Brunestud)的Wiki介绍  
 此Mod创意工坊地址:  
 https://steamcommunity.com/sharedfiles/filedetails/?id=3036032797  
+
 源码地址:  
 https://github.com/cztBlue/DS-ArcueidMod  
+
+Wiki:
+https://cztblue.github.io
 
 这里包括Mod中实装的:  
 * 人物特性
