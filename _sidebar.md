@@ -12,8 +12,9 @@
 - 维护信息
   * [更新日志](/project/updata.md)
   * [关于此Mod](/project/about.md)
-- 物品介绍
-  * [字母发音表](/other/proun.md)
+- 其他
+  * [字母音素](/other/proun.md)
+  * [浅谈汉化](/other/gal_cn.md)
 
 
 
